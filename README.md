@@ -7,10 +7,10 @@
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
+	<img src="https://komarev.com/ghpvc/?username=its-me-rbk&label=Profile%20views&color=0047AB&style=plastic?" alt="its-me-rbk" height=25px, width=160px/> 
 	<!---
-		<a href = "https://commits.top/egypt.html" target="_blank">
-			<img src="https://aktive.tk/egypt/7oSkaaa?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
+		<a href = "https://commits.top/india.html" target="_blank">
+			<img src="https://aktive.tk/india/its-me-rbk?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
 		</a>
 	-->
 	<a href = "https://commits.top/egypt.html" target="_blank">
