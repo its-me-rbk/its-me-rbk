@@ -114,11 +114,11 @@
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
 	    <img alt="its-me-rbk's Github Stats" src="https://github-readme-stats.vercel.app/api?username=its-me-rbk&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=its-me-rbk&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="its-me-rbk" height="230px"/>
+	  <!--- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=its-me-rbk&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="its-me-rbk" height="230px"/> 
 <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
+  </p> -->
 </details>
 
 <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
@@ -144,12 +144,12 @@
 ----
 	
 <div>
- <!-- <p align="center">
+ <!--- <p align="center">
 	<a href="https://github.com/7oSkaaa/LeetCode_DailyChallenge_2023">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 
-  </p> --->
+  </p> -->
 </div>
 </details>
 
