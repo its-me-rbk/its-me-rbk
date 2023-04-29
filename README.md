@@ -1,13 +1,13 @@
 <h1 align="center">Hi , I'm Rubhak <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/its-me-rbk/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Competitive+Programmer;Expert+on+Ethical+Hacking+and+Cyber+Security;Always+learning+new+things"></a>
+  <a href="https://github.com/its-me-rbk/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Competitive+Programmer;Ethical+Hacker;Cyber+Security+Professionalist;Always+learning+new+things"></a>
 </p>
 
 
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=its-me-rbk&label=Profile%20views&color=0047AB&style=plastic?" alt="its-me-rbk" height=25px, width=160px/> 
+	<img src="https://komarev.com/ghpvc/?username=its-me-rbk&label=Profile%20views&color=0047AB&style=for-the-badge" alt="its-me-rbk" height=25px, width=160px/> 
 </p>
 
 	
@@ -21,7 +21,7 @@
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Software Programming` and `Cyber Security`.
 - :nerd_face: Always `learning new things`.
-- :boom: You can visit [MY WEBSITE](https://).
+- :boom: You can visit [My Website](https://its-me-rbk.github.io).
 <br>
 
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with me
