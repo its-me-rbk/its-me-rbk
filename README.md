@@ -151,12 +151,11 @@
 ----
 	
 <div>
- <!--- <p align="center">
-	<a href="https://github.com/7oSkaaa/LeetCode_DailyChallenge_2023">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-
-  </p> -->
+	
+ <p align="left">
+    <a href="https://github.com/its-me-rbk/its-me-rbk/"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=its-me-rbk&repo=its-me-rbk&theme=react&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="https://github.com/its-me-rbk/its-me-rbk/"></a>
+ </p>
+	
 </div>
 </details>
 
