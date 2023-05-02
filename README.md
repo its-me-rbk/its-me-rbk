@@ -110,7 +110,7 @@
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=its-me-rbk&theme=tokyonight_duo" alt="its-me-rbk" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=its-me-rbk&theme=github-dark&border_radius=5&ring=003399&dates=00FFFF&fire=EB5454" alt="its-me-rbk" /></p>
 
 </details>
   
