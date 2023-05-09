@@ -17,7 +17,6 @@
 
 <br><br>
 
-- :school: I am a `Student` at [Skv Vidhyaashram CBSE School](https://skvvidhyaashram.edu.in/).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Software Programming` and `Cyber Security`.
 - :nerd_face: Always `learning new things`.
