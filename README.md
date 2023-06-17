@@ -130,7 +130,7 @@
 
 ----
 	
-[![its-me-rbk's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=its-me-rbk&theme=github	)](https://github.com/7oSkaaa/github-readme-activity-graph)
+![its-me-rbk's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=its-me-rbk&theme=github)
 
  
 </details>
