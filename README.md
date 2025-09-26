@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Rubhak <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=600&height=100&lines=Competitive+Programmer;Ethical+Hacker;Cyber+Security+Professionalist;Always+learning+new+things" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=600&height=100&lines=Founder+And+CEO;Cyber+Security+Specialist;Ethical+Hacker;Penetration+Tester;Web+Developer;" alt="Typing SVG" /></a>
 </p>
 
 
@@ -19,14 +19,14 @@
 
 - :classical_building: I'm the CEO & Founder of Green Dwarf Tech.
 - :technologist: I love using Software to solve every `Problem`.
-- :student: I’m currently learning `Software Programming` and `Cyber Security`.
+- :student: I’m currently learning `Software Development` and `Cyber Security`.
 - :nerd_face: Always `learning new things`.
-- :boom: You can visit [Our Company Website](https://greendwarftech.com/).
+- :boom: You can visit [My Company's Website](https://greendwarftech.com/).
 <br>
 
 ## <img src="https://github.com/its-me-rbk/its-me-rbk/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with me
 <p align="center">
-	<a href="mailto:its_me_rbk@proton.me"><img img src="https://img.shields.io/badge/mail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="mailto:ceo@greendwarftech.com"><img img src="https://img.shields.io/badge/mail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/its-me-rbk"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.instagram.com/its_me_rbk_"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
@@ -59,8 +59,6 @@
     <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
   &emsp;
     <a href="https://github.com"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="https://sheets.google.com/"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
   &emsp;
     <a href="https://stackoverflow.com/"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
   &emsp;
